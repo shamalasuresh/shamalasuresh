@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shamalasuresh
-- 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning unreal engine
-- 💞️ I’m looking to collaborate on 3D designing using unreal engine
+- 👀 I’m interested in programming
 - 📫 How to reach me https://github.com/shamalasuresh
+
+[Ultimate Java Guide](https://www.mapagam.com) - Ultimate guide to learn fundamentals and advanced concepts of Core Java
 
 <!---
 shamalasuresh/shamalasuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
